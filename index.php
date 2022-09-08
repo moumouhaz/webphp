@@ -23,7 +23,7 @@ if (isset($_SESSION['identity'])) {
         <?php endif; ?>
         
         <p>
-            Ceci est un simple site web pour démontrer les avantages d'un framework PHP et les inconvénients du PHP "pur".
+            Ceci est un simple site web pour démontrer les avantages d azure microsoft
         </p>
     </body>
 </html>
