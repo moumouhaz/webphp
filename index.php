@@ -23,7 +23,7 @@ if (isset($_SESSION['identity'])) {
         <?php endif; ?>
         
         <p>
-            Ceci est un simple site web pour démontrer les avantages d azure microsoft avec PHP
+            Ceci est un simple site web pour démontrer les avantages d azure microsoft avec PHP mise ajour 09 07
         </p>
     </body>
 </html>
